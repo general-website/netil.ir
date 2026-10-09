@@ -1,0 +1,38 @@
+{
+  "iran_network_providers": {
+    "mobile_operators": [
+      { "name_fa": "همراه اول (MCI)", "name_en": "Mobile Communication Company of Iran (MCI)", "asns": ["AS197207"] },
+      { "name_fa": "ایرانسل (MTN Irancell)", "name_en": "Iran Cell Service and Communication Company", "asns": ["AS44244"] },
+      { "name_fa": "رایتل (Rightel)", "name_en": "Rightel Communication Service Company", "asns": ["AS57218"] },
+      { "name_fa": "شاتل موبایل", "name_en": "Shatel Mobile", "asns": ["AS34369"] }
+    ],
+    "fixed_broadband_fcp": [
+      { "name_fa": "مخابرات ایران (TCI)", "name_en": "Telecommunication Company of Iran (TCI)", "asns": ["AS58224"] },
+      { "name_fa": "شاتل (Aria Shatel)", "name_en": "Aria Shatel PJSC", "asns": ["AS31549"] },
+      { "name_fa": "آسیاتک", "name_en": "Asiatech Data Transmission Company", "asns": ["AS43754"] },
+      { "name_fa": "پارس آنلاین", "name_en": "Parsan Lin Co.", "asns": ["AS16322"] },
+      { "name_fa": "مبین نت", "name_en": "Mobin Net Communication Company", "asns": ["AS47330"] },
+      { "name_fa": "های وب (داده گستر عصر نوین)", "name_en": "Dadeh Gostar Asr Novin (HiWeb)", "asns": ["AS44337"] },
+      { "name_fa": "پیشگامان", "name_en": "Pishgaman Toseeh Ertebatat", "asns": ["AS3263", "AS49100"] },
+      { "name_fa": "صبانت", "name_en": "Neda Gostar Saba Data Transmission Co.", "asns": ["AS25144"] },
+      { "name_fa": "رسپینا", "name_en": "Respina Networks & Beyond", "asns": ["AS42337"] },
+      { "name_fa": "افرانت", "name_en": "Afranet", "asns": ["AS25184"] },
+      { "name_fa": "فناوا", "name_en": "Fanava Group", "asns": ["AS41881", "AS24631"] },
+      { "name_fa": "سپنتا", "name_en": "Sepanta Communication Development", "asns": ["AS39074"] },
+      { "name_fa": "لایزر", "name_en": "Laser Telecommunication Company", "asns": ["AS39501"] },
+      { "name_fa": "حلما گستر خاورمیانه", "name_en": "Helma Gostar Khavarmianeh", "asns": ["AS59433"] },
+      { "name_fa": "داده پردازی ایران (DPI)", "name_en": "Dadeh Pardazi Iran", "asns": ["AS12393"] }
+    ],
+    "enterprise_regional": [
+      { "name_fa": "سروش رسانه (Sinet)", "name_en": "Soroush Rasaneh Company", "asns": ["AS21341"] },
+      { "name_fa": "پتیاک", "name_en": "Petiak Systems", "asns": ["AS48434"] },
+      { "name_fa": "ماهان نت", "name_en": "Mahan Net Data Transmission Co.", "asns": ["AS51167"] },
+      { "name_fa": "زی تل (Danesh Nehad Arvand)", "name_en": "Danesh Nehad Arvand (Zitel)", "asns": ["AS56402"] },
+      { "name_fa": "ابر آروان (ArvanCloud)", "name_en": "ArvanCloud", "asns": ["AS208008"] },
+      { "name_fa": "داتک", "name_en": "Datak Telecom", "asns": ["AS25185"] }
+    ],
+    "infrastructure": [
+      { "name_fa": "شرکت ارتباطات زیرساخت (TIC)", "name_en": "Telecommunication Infrastructure Company (TIC)", "asns": ["AS49666", "AS12880"] }
+    ]
+  }
+}
